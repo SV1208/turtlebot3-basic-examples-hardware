@@ -33,12 +33,14 @@ Below are video thumbnails demonstrating each example. Click on any image to vie
 
 ### 🔸 Move Using Interactive Markers  
 The robot is controlled using RViz's interactive markers, allowing the user to send movement goals by simply dragging markers in a graphical interface.  
-[![Move Using Interactive Markers](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)
+[![Move Using Interactive Markers](https://img.youtube.com/vi/zkmPdeBjQVg/0.jpg)](https://www.youtube.com/watch?v=zkmPdeBjQVg)
 
 ### 🔸 Obstacle Detection  
 The robot detects obstacles using LiDAR and stops or navigates accordingly, demonstrating basic reactive behavior.  
-[![Obstacle Detection](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)
+[![Obstacle Detection](https://img.youtube.com/vi/egkBUS97TvI/0.jpg)](https://www.youtube.com/watch?v=egkBUS97TvI)
 
+
+## Videos to be added later
 ### 🔸 Point Operation  
 The robot is sent to specific goal coordinates using ROS2 navigation commands and successfully reaches them.  
 [![Point Operation](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)
