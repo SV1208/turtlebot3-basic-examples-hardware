@@ -55,7 +55,7 @@ Two TurtleBot3 robots are operated simultaneously, demonstrating multi-robot coo
 
 ### 🔸 SLAM (Simultaneous Localization and Mapping)  
 Using SLAM, the TurtleBot3 builds a real-time map of its environment while localizing itself within that map using LiDAR and odometry data.  
-[![SLAM](https://img.youtube.com/vi/VIDEO_ID_6/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_6)
+[![SLAM](https://img.youtube.com/vi/Adtv84dQhnc/0.jpg)](https://www.youtube.com/watch?v=Adtv84dQhnc)
 
 ---
 
