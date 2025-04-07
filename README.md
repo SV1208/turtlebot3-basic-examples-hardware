@@ -43,11 +43,11 @@ The robot detects obstacles using LiDAR and stops or navigates accordingly, demo
 ## Videos to be added later
 ### 🔸 Point Operation  
 The robot is sent to specific goal coordinates using ROS2 navigation commands and successfully reaches them.  
-[![Point Operation](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)
+[![Point Operation](https://img.youtube.com/vi/PWUz4TWyD3A/0.jpg)](https://www.youtube.com/watch?v=PWUz4TWyD3A)
 
 ### 🔸 Patrol  
 The TurtleBot3 follows a predefined set of waypoints in a loop, simulating patrol behavior for surveillance or exploration tasks.  
-[![Patrol](https://img.youtube.com/vi/VIDEO_ID_4/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_4)
+[![Patrol](https://img.youtube.com/vi/OtTbcLSXioo/0.jpg)](https://www.youtube.com/watch?v=OtTbcLSXioo)
 
 ### 🔸 Load Multiple TurtleBot3  
 Two TurtleBot3 robots are operated simultaneously, demonstrating multi-robot coordination in a shared space.  
